@@ -13,7 +13,7 @@ All the raw and processed dataset is shared for future research in **Data** and
 The result of ITER-DBSCAN and parallelized ITER-DBSCAN evaluation on the dataset
 is shared in **NewResults** and **publishedResults** folder.
 
-# Code
+# Code (API Reference)
 API Reference :
 ITER-DBSCAN Implementation - Iteratively adapt dbscan parameters for unbalanced data (text) clustering
     The change of core parameters of DBSCAN i.e. distance and minimum samples parameters are changed smoothly to
