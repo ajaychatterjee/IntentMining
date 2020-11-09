@@ -1,0 +1,6 @@
+README.md
+setup.py
+ShortTextClustering.egg-info/PKG-INFO
+ShortTextClustering.egg-info/SOURCES.txt
+ShortTextClustering.egg-info/dependency_links.txt
+ShortTextClustering.egg-info/top_level.txt

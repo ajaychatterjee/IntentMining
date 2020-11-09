@@ -1,5 +1,4 @@
 import tensorflow_hub as hub
-import numpy as np
 
 class SentenceEmbedding(object):
     """docstring for SentenceEmbedding"""

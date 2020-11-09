@@ -19,7 +19,7 @@ API Reference :
 ITER-DBSCAN Implementation - Iteratively adapt dbscan parameters for unbalanced data (text) clustering
     The change of core parameters of DBSCAN i.e. distance and minimum samples parameters are changed smoothly to
     find high to low density clusters. At each iteration distance parameter is increased by 0.01 and minimum samples
-    are decreased by 1. The algorithm uses cosine distance for cluster creation
+    are decreased by 1. The algorithm uses cosine distance for cluster creation.
 
 `ITER-DBSCAN(initial_distance, initial_minimum_samples, delta_distance, delta_minimum_samples,
                  max_iteration, threshold, features)
