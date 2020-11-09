@@ -1,4 +1,4 @@
-#Overview
+# Overview
 ITER-DBSCAN implementation for unbalanced data clustering. The algorithm is 
 is tested on short text dataset (conversational intent mining from utterances) 
 and achieve state-of-the art result. The work in accepted in COLING-2020.
@@ -13,7 +13,7 @@ All the raw and processed dataset is shared for future research in **Data** and
 The result of ITER-DBSCAN and parallelized ITER-DBSCAN evaluation on the dataset
 is shared in **NewResults** and **publishedResults** folder.
 
-#Code
+# Code
 API Reference :
 ITER-DBSCAN Implementation - Iteratively adapt dbscan parameters for unbalanced data (text) clustering
     The change of core parameters of DBSCAN i.e. distance and minimum samples parameters are changed smoothly to
@@ -34,7 +34,7 @@ Parameters:
 In our experiments, delta_distance and delta_minimum_samples changed constantly by
 a factor of 0.01 and 1 respectively.
 
-#Citation
+# Citation
 If you are using this code in your work, please cite this paper:
 
 > @misc{chatterjee2020intent,
