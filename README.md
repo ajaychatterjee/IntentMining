@@ -1,4 +1,4 @@
-# Overview
+# Overview (Intent Mining from past conversations for Conversational Agent)
 ITER-DBSCAN implementation for unbalanced data clustering. The algorithm is 
 is tested on short text dataset (conversational intent mining from utterances) 
 and achieve state-of-the art result. The work in accepted in COLING-2020.
