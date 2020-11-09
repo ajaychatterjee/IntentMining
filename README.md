@@ -46,6 +46,7 @@ features: default values is None, the algorithm expects a list of short texts. I
 In our experiments, delta_distance and delta_minimum_samples changed constantly by
 a factor of 0.01 and 1 respectively. 
 
+**Citation**
 If you are using this code in your work, please cite this paper:
 
 @misc{chatterjee2020intent,
