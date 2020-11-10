@@ -29,8 +29,7 @@ Parameters:
 - delta_distance: change in distance parameter at each iteration(default: 0.01)
 - delta_minimum_samples: change in minimum sample parameter (of DBSCAN) at each iteration(default: 0.01)
 - max_iteration : maximum number of iteration the DBSCAN algorithm will run for cluster creation(default: 5)
-- threshold: threshold parameter controls the size of the cluster, any cluster contains more than threshold parameter
-- will be discarded. (default: 300)
+- threshold: threshold parameter controls the size of the cluster, any cluster contains more than threshold parameter will be discarded. (default: 300)
 - features: default values is None, the algorithm expects a list of short texts. In case the representation is pre-computed for text or data sources (pass features values as "precomputed"). default: None
 
 In our experiments, delta_distance and delta_minimum_samples changed constantly by
