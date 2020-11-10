@@ -19,15 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88593bdf-a560-445b-be25-030d11a1554e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShortTextClustering.egg-info/PKG-INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShortTextClustering.egg-info/SOURCES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShortTextClustering.egg-info/dependency_links.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShortTextClustering.egg-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ShortTextClustering-1.0-py3-none-any.whl" beforeDir="false" />
-    </list>
+    <list default="true" id="88593bdf-a560-445b-be25-030d11a1554e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +119,7 @@
       <updated>1604751696296</updated>
       <workItem from="1604751697535" duration="18139000" />
       <workItem from="1604916958730" duration="11088000" />
-      <workItem from="1604995837296" duration="68000" />
+      <workItem from="1604995837296" duration="156000" />
     </task>
     <servers />
   </component>
