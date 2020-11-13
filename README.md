@@ -4,7 +4,7 @@ is tested on short text dataset (conversational intent mining from utterances)
 and achieve state-of-the art result. The work in accepted in COLING-2020.
 All the dataset and results are shared for future evaluation. 
 
-paper Link: https://arxiv.org/abs/2005.11014
+paper Link: https://arxiv.org/pdf/2005.11014v3.pdf
 
 Please note, we have only shared the base ITER-DBSCAN implementation. The
 parallelized implementation of ITER-DBSCAN is not shared. 
