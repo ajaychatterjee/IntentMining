@@ -483,7 +483,8 @@ result_df
 # Citation
 If you are using this code in your work, please cite this paper:
 
-`@inproceedings{chatterjee-sengupta-2020-intent,
+`
+@inproceedings{chatterjee-sengupta-2020-intent,
     title = "Intent Mining from past conversations for Conversational Agent",
     author = "Chatterjee, Ajay  and
       Sengupta, Shubhashis",
