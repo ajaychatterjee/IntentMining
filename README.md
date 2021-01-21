@@ -483,7 +483,7 @@ result_df
 # Citation
 If you are using this code in your work, please cite this paper:
 
-`
+```
 @inproceedings{chatterjee-sengupta-2020-intent,
     title = "Intent Mining from past conversations for Conversational Agent",
     author = "Chatterjee, Ajay  and
@@ -497,4 +497,4 @@ If you are using this code in your work, please cite this paper:
     pages = "4140--4152",
     abstract = "Conversational systems are of primary interest in the AI community. Organizations are increasingly using chatbot to provide round-the-clock support and to increase customer engagement. Many commercial bot building frameworks follow a standard approach that requires one to build and train an intent model to recognize user input. These frameworks require a collection of user utterances and corresponding intent to train an intent model. Collecting a substantial coverage of training data is a bottleneck in the bot building process. In cases where past conversation data is available, the cost of labeling hundreds of utterances with intent labels is time-consuming and laborious. In this paper, we present an intent discovery framework that can mine a vast amount of conversational logs and to generate labeled data sets for training intent models. We have introduced an extension to the DBSCAN algorithm and presented a density-based clustering algorithm ITER-DBSCAN for unbalanced data clustering. Empirical evaluation on one conversation dataset, six different intent dataset, and one short text clustering dataset show the effectiveness of our hypothesis.",
 }
-`
+```
